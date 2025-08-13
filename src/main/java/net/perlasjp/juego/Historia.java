@@ -1,4 +1,4 @@
-package main.java.net.perlasjp.juego;
+package net.perlasjp.juego;
 
 public class Historia {
 
