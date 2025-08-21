@@ -23,12 +23,12 @@ public class Jugador {
     }
 
     public String getNombre() {
-        return false;
+        return nombre;
 
     }
 
     public int getSalud() {
-        return false;
+        return salud;
 
     }
 
